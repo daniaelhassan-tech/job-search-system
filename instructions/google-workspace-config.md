@@ -38,6 +38,6 @@ If you don't use these specific tools, here's what to swap:
 |---|---|---|
 | Gmail | Email scanning, draft tracking | Outlook, Superhuman, any email client with API/MCP access |
 | Google Calendar | Meeting detection, upcoming prep | Outlook Calendar, Cal.com, Fantastical |
-| Granola | Meeting transcripts | Otter.ai, Fireflies, Fathom, manual notes |
+| Granola | Meeting transcripts | Zoom, Teams, Otter.ai, Fireflies, Fathom, manual notes |
 
 The protocols above work with any tool that serves the same purpose — just update the tool references in your instructions.
