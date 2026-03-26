@@ -81,7 +81,7 @@ Collapsing them into one file creates a document that's either too long to scan 
 
 ## AI Collaboration Design
 
-The second design layer is how the AI interacts with the system. This isn't just "use AI to help with my job search" — it's a set of behavioral instructions that shape the AI into a specific kind of collaborator.
+The second design layer is how the AI interacts with the system of markdown files. This isn't just "use AI to help with my job search" — it's a set of behavioral instructions that shape the AI into a specific kind of collaborator. When you use this, you can paste these into the project instructions in Claude Cowork.
 
 ### Behavioral architecture
 
