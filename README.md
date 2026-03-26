@@ -140,7 +140,7 @@ If you're a PM looking at this repo, here's what I'd highlight:
 
 **The AI collaboration problem is underexplored.** Most AI-assisted workflows treat the AI as a tool that does what you ask. The more interesting design space is developing expertise and behavioral coaching collaborator — defining how an AI should interact with a human decision-maker over time, including when to push back, what to surface proactively, and how to maintain institutional memory across sessions.
 
-**The protocol design matters more than the templates.** The debrief protocol, sync protocol, and viability-first evaluation flow are where the system's value lives. The templates are just containers. The protocols define how information flows through them. So I don't accidentally burn togents with a totally agentic system, and to maintain editorial control, I've set this up as manual push to update my files which is as simple as "update the state doc based on the emails I sent today." 
+**The protocol design matters more than the templates.** The debrief protocol, sync protocol, and viability-first evaluation flow are where the system's value lives. The templates are just containers. The protocols define how information flows through them. So I don't accidentally burn tokens with a totally agentic system, and to maintain editorial control, I've set this up as manual push to update my files which is as simple as "update the state doc based on the emails I sent today." 
 
 ## License
 
